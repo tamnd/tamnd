@@ -54,12 +54,7 @@ Everything below regenerates on a schedule from my real activity.
 
 ![overview](./metrics.svg)
 
-<p>
-  <img alt="commit calendar" src="./metrics.calendar.svg" />
-  <img alt="code changes" src="./metrics.lines.svg" />
-</p>
-
-![languages](./metrics.languages.svg)
+![commit calendar](./metrics.calendar.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamnd/tamnd/output/github-snake-dark.svg">
