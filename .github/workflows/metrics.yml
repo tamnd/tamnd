@@ -23,8 +23,6 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_lines: yes
-          plugin_lines_sections: base
 
       - name: commit calendar (isometric, full year)
         uses: lowlighter/metrics@latest
