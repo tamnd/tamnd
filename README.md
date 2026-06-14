@@ -78,252 +78,258 @@ Everything below regenerates on a schedule from my real activity.
 
 Every public repository I own, nothing left out. 335 in total.
 
-### Command-line tools (244)
+### Command-line tools (246)
 
-- [aclanthology-cli](https://github.com/tamnd/aclanthology-cli)
-- [acmdl-cli](https://github.com/tamnd/acmdl-cli)
-- [acmqueue-cli](https://github.com/tamnd/acmqueue-cli)
-- [algorithmvisualizer-cli](https://github.com/tamnd/algorithmvisualizer-cli)
-- [alignmentforum-cli](https://github.com/tamnd/alignmentforum-cli)
-- [amz-cli](https://github.com/tamnd/amz-cli) - A delightful command line for Amazon.com: crawl every public surface into rich, structured data
-- [any-cli](https://github.com/tamnd/any-cli) - Scaffold a new tamnd/*-cli repository, fully wired.
-- [applepodcasts-cli](https://github.com/tamnd/applepodcasts-cli)
-- [archive-cli](https://github.com/tamnd/archive-cli) - A fast, scriptable CLI for the Internet Archive and the Wayback Machine
-- [archwiki-cli](https://github.com/tamnd/archwiki-cli)
-- [arctic-cli](https://github.com/tamnd/arctic-cli) - A command line for the bulk Reddit archive: pull the monthly torrent dumps and the Arctic Shift API, convert to Parquet, query locally, and publish to Hugging Face.
-- [arstechnica-cli](https://github.com/tamnd/arstechnica-cli)
-- [arxiv-cli](https://github.com/tamnd/arxiv-cli)
-- [atcoder-cli](https://github.com/tamnd/atcoder-cli)
-- [baidu-cli](https://github.com/tamnd/baidu-cli)
-- [barchart-cli](https://github.com/tamnd/barchart-cli)
-- [bbc-cli](https://github.com/tamnd/bbc-cli)
-- [betterexplained-cli](https://github.com/tamnd/betterexplained-cli)
-- [bilibili-cli](https://github.com/tamnd/bilibili-cli) - A fast, friendly command line for bilibili.com. Resolve any video, user, comment, danmaku, dynamic, live room, bangumi, audio, article, or favorite into clean structured records, all from one binary.
-- [biorxiv-cli](https://github.com/tamnd/biorxiv-cli)
-- [bloomberg-cli](https://github.com/tamnd/bloomberg-cli)
-- [bluesky-cli](https://github.com/tamnd/bluesky-cli)
-- [britannica-cli](https://github.com/tamnd/britannica-cli)
-- [bytebytego-cli](https://github.com/tamnd/bytebytego-cli)
-- [cacm-cli](https://github.com/tamnd/cacm-cli)
-- [cambridge-cli](https://github.com/tamnd/cambridge-cli)
-- [ccrawl-cli](https://github.com/tamnd/ccrawl-cli) - A fast, friendly command line for Common Crawl
-- [chemrxiv-cli](https://github.com/tamnd/chemrxiv-cli)
-- [classcentral-cli](https://github.com/tamnd/classcentral-cli)
-- [clinicaltrials-cli](https://github.com/tamnd/clinicaltrials-cli)
-- [cmu15445-cli](https://github.com/tamnd/cmu15445-cli)
-- [codecademy-cli](https://github.com/tamnd/codecademy-cli)
-- [codechef-cli](https://github.com/tamnd/codechef-cli)
-- [codeforces-cli](https://github.com/tamnd/codeforces-cli)
-- [codinghorror-cli](https://github.com/tamnd/codinghorror-cli)
-- [comick-cli](https://github.com/tamnd/comick-cli)
-- [compilerexplorer-cli](https://github.com/tamnd/compilerexplorer-cli)
-- [coursera-cli](https://github.com/tamnd/coursera-cli)
-- [cpalgorithms-cli](https://github.com/tamnd/cpalgorithms-cli)
-- [craftinginterpreters-cli](https://github.com/tamnd/craftinginterpreters-cli)
-- [cran-cli](https://github.com/tamnd/cran-cli)
-- [cratesio-cli](https://github.com/tamnd/cratesio-cli) - CLI for the crates.io Rust package registry
-- [crossref-cli](https://github.com/tamnd/crossref-cli)
-- [cryptostanford-cli](https://github.com/tamnd/cryptostanford-cli)
-- [cs229-cli](https://github.com/tamnd/cs229-cli)
-- [cs231n-cli](https://github.com/tamnd/cs231n-cli)
-- [cs50-cli](https://github.com/tamnd/cs50-cli)
-- [csdn-cli](https://github.com/tamnd/csdn-cli)
-- [cses-cli](https://github.com/tamnd/cses-cli)
-- [csfieldguide-cli](https://github.com/tamnd/csfieldguide-cli)
-- [csrankings-cli](https://github.com/tamnd/csrankings-cli)
-- [csstricks-cli](https://github.com/tamnd/csstricks-cli)
-- [cstheoryse-cli](https://github.com/tamnd/cstheoryse-cli)
-- [ctrip-cli](https://github.com/tamnd/ctrip-cli)
-- [cvf-cli](https://github.com/tamnd/cvf-cli)
-- [databaseinternals-cli](https://github.com/tamnd/databaseinternals-cli)
-- [dbengines-cli](https://github.com/tamnd/dbengines-cli)
-- [dblp-cli](https://github.com/tamnd/dblp-cli)
-- [deeplearningbook-cli](https://github.com/tamnd/deeplearningbook-cli)
-- [devdocs-cli](https://github.com/tamnd/devdocs-cli)
-- [devto-cli](https://github.com/tamnd/devto-cli)
-- [dictionary-cli](https://github.com/tamnd/dictionary-cli)
-- [distill-cli](https://github.com/tamnd/distill-cli) - A command line for Distill.pub machine learning research
-- [dlmf-cli](https://github.com/tamnd/dlmf-cli)
-- [dmoj-cli](https://github.com/tamnd/dmoj-cli)
-- [doaj-cli](https://github.com/tamnd/doaj-cli)
-- [dockerhub-cli](https://github.com/tamnd/dockerhub-cli)
-- [douban-cli](https://github.com/tamnd/douban-cli)
-- [douyin-cli](https://github.com/tamnd/douyin-cli)
-- [dzone-cli](https://github.com/tamnd/dzone-cli)
-- [eleutherai-cli](https://github.com/tamnd/eleutherai-cli)
-- [elife-cli](https://github.com/tamnd/elife-cli)
-- [eloquentjs-cli](https://github.com/tamnd/eloquentjs-cli)
-- [encmath-cli](https://github.com/tamnd/encmath-cli)
-- [eppreprints-cli](https://github.com/tamnd/eppreprints-cli)
-- [europepmc-cli](https://github.com/tamnd/europepmc-cli)
-- [exercism-cli](https://github.com/tamnd/exercism-cli)
-- [explainshell-cli](https://github.com/tamnd/explainshell-cli)
-- [f1000-cli](https://github.com/tamnd/f1000-cli)
-- [facebook-cli](https://github.com/tamnd/facebook-cli) - A delightful, scriptable command line for Facebook
-- [fandom-cli](https://github.com/tamnd/fandom-cli)
-- [fastai-cli](https://github.com/tamnd/fastai-cli)
-- [feedbooks-cli](https://github.com/tamnd/feedbooks-cli)
-- [figshare-cli](https://github.com/tamnd/figshare-cli)
-- [freebsddocs-cli](https://github.com/tamnd/freebsddocs-cli)
-- [freecodecamp-cli](https://github.com/tamnd/freecodecamp-cli) - A command line for freeCodeCamp news and tutorials
-- [frontiers-cli](https://github.com/tamnd/frontiers-cli)
-- [gapminder-cli](https://github.com/tamnd/gapminder-cli)
-- [gitee-cli](https://github.com/tamnd/gitee-cli)
-- [github-cli](https://github.com/tamnd/github-cli)
-- [githubdocs-cli](https://github.com/tamnd/githubdocs-cli)
-- [gobyexample-cli](https://github.com/tamnd/gobyexample-cli)
-- [goodread-cli](https://github.com/tamnd/goodread-cli) - A fast, friendly command line for public Goodreads data. One binary that turns books, authors, series, lists, quotes, users, shelves, genres, reviews, and search into rich structured records.
-- [google-cli](https://github.com/tamnd/google-cli)
-- [gutenberg-cli](https://github.com/tamnd/gutenberg-cli)
-- [hackerearth-cli](https://github.com/tamnd/hackerearth-cli)
-- [hackernews-cli](https://github.com/tamnd/hackernews-cli) - A command line for Hacker News. A single pure-Go binary, no API key, output as table/JSON/JSONL/CSV/TSV/URL.
-- [hackernoon-cli](https://github.com/tamnd/hackernoon-cli) - A command line for Hackernoon tech stories
-- [hackerrank-cli](https://github.com/tamnd/hackerrank-cli)
-- [highscalability-cli](https://github.com/tamnd/highscalability-cli) - A command line for the High Scalability blog
-- [huggingface-cli](https://github.com/tamnd/huggingface-cli)
-- [hupu-cli](https://github.com/tamnd/hupu-cli)
-- [ifeng-cli](https://github.com/tamnd/ifeng-cli)
-- [imdb-cli](https://github.com/tamnd/imdb-cli)
-- [infoq-cli](https://github.com/tamnd/infoq-cli)
-- [interpretableml-cli](https://github.com/tamnd/interpretableml-cli)
-- [iqiyi-cli](https://github.com/tamnd/iqiyi-cli)
-- [jayalammar-cli](https://github.com/tamnd/jayalammar-cli)
-- [joelonsoftware-cli](https://github.com/tamnd/joelonsoftware-cli)
-- [jsinfo-cli](https://github.com/tamnd/jsinfo-cli)
-- [juejin-cli](https://github.com/tamnd/juejin-cli)
-- [jutge-cli](https://github.com/tamnd/jutge-cli)
-- [kaggle-cli](https://github.com/tamnd/kaggle-cli)
-- [kattis-cli](https://github.com/tamnd/kattis-cli)
-- [kernelorg-cli](https://github.com/tamnd/kernelorg-cli)
-- [khanacademy-cli](https://github.com/tamnd/khanacademy-cli)
-- [komal-cli](https://github.com/tamnd/komal-cli)
-- [kr36-cli](https://github.com/tamnd/kr36-cli)
-- [kvant-mccme-cli](https://github.com/tamnd/kvant-mccme-cli)
-- [leanpub-cli](https://github.com/tamnd/leanpub-cli)
-- [leetcode-cli](https://github.com/tamnd/leetcode-cli)
-- [lesswrong-cli](https://github.com/tamnd/lesswrong-cli)
-- [lilianweng-cli](https://github.com/tamnd/lilianweng-cli)
-- [linkedin-cli](https://github.com/tamnd/linkedin-cli) - A command line for public LinkedIn data: profiles, companies, and jobs as structured records. Pure Go, no API key.
-- [linuxdo-cli](https://github.com/tamnd/linuxdo-cli)
-- [lobsters-cli](https://github.com/tamnd/lobsters-cli)
-- [lwn-cli](https://github.com/tamnd/lwn-cli)
-- [mangadex-cli](https://github.com/tamnd/mangadex-cli)
-- [mangafire-cli](https://github.com/tamnd/mangafire-cli)
-- [martinfowler-cli](https://github.com/tamnd/martinfowler-cli)
-- [mathnet-cli](https://github.com/tamnd/mathnet-cli)
-- [mathnet-ru-cli](https://github.com/tamnd/mathnet-ru-cli)
-- [mathoverflow-cli](https://github.com/tamnd/mathoverflow-cli)
-- [mathse-cli](https://github.com/tamnd/mathse-cli)
-- [mathworld-cli](https://github.com/tamnd/mathworld-cli)
-- [maven-cli](https://github.com/tamnd/maven-cli)
-- [mdpi-cli](https://github.com/tamnd/mdpi-cli)
-- [medium-cli](https://github.com/tamnd/medium-cli)
-- [mitnews-cli](https://github.com/tamnd/mitnews-cli)
-- [mlxtend-cli](https://github.com/tamnd/mlxtend-cli)
-- [morningpaper-cli](https://github.com/tamnd/morningpaper-cli) - A command line for The Morning Paper CS paper reviews
-- [nand2tetris-cli](https://github.com/tamnd/nand2tetris-cli)
-- [nber-cli](https://github.com/tamnd/nber-cli)
-- [neetcode-cli](https://github.com/tamnd/neetcode-cli)
-- [netease163-cli](https://github.com/tamnd/netease163-cli)
-- [neteasemusic-cli](https://github.com/tamnd/neteasemusic-cli)
-- [neuralnetworksdl-cli](https://github.com/tamnd/neuralnetworksdl-cli)
-- [neurips-cli](https://github.com/tamnd/neurips-cli)
-- [nlab-cli](https://github.com/tamnd/nlab-cli)
-- [npmjs-cli](https://github.com/tamnd/npmjs-cli)
-- [ocwmit-cli](https://github.com/tamnd/ocwmit-cli)
-- [oeis-cli](https://github.com/tamnd/oeis-cli)
-- [opendatastructures-cli](https://github.com/tamnd/opendatastructures-cli)
-- [openreview-cli](https://github.com/tamnd/openreview-cli)
-- [openstax-cli](https://github.com/tamnd/openstax-cli)
-- [oschina-cli](https://github.com/tamnd/oschina-cli)
-- [osmwiki-cli](https://github.com/tamnd/osmwiki-cli)
-- [ossucs-cli](https://github.com/tamnd/ossucs-cli)
-- [ostep-cli](https://github.com/tamnd/ostep-cli)
-- [oupopen-cli](https://github.com/tamnd/oupopen-cli)
-- [owasp-cli](https://github.com/tamnd/owasp-cli)
-- [owid-cli](https://github.com/tamnd/owid-cli)
-- [paperreview-cli](https://github.com/tamnd/paperreview-cli)
-- [paulgraham-cli](https://github.com/tamnd/paulgraham-cli)
-- [paulsmath-cli](https://github.com/tamnd/paulsmath-cli)
-- [peerj-cli](https://github.com/tamnd/peerj-cli)
-- [philpapers-cli](https://github.com/tamnd/philpapers-cli)
-- [physicsforums-cli](https://github.com/tamnd/physicsforums-cli)
-- [pixiv-cli](https://github.com/tamnd/pixiv-cli)
-- [pkggodev-cli](https://github.com/tamnd/pkggodev-cli)
-- [plosone-cli](https://github.com/tamnd/plosone-cli)
-- [pragmaticengineer-cli](https://github.com/tamnd/pragmaticengineer-cli)
-- [producthunt-cli](https://github.com/tamnd/producthunt-cli)
-- [proofwiki-cli](https://github.com/tamnd/proofwiki-cli)
-- [pubmed-cli](https://github.com/tamnd/pubmed-cli)
-- [pwc-cli](https://github.com/tamnd/pwc-cli)
-- [pydocs-cli](https://github.com/tamnd/pydocs-cli)
-- [pypi-cli](https://github.com/tamnd/pypi-cli)
-- [pythondiscuss-cli](https://github.com/tamnd/pythondiscuss-cli)
-- [qiita-cli](https://github.com/tamnd/qiita-cli)
-- [qqmusic-cli](https://github.com/tamnd/qqmusic-cli)
-- [quanta-cli](https://github.com/tamnd/quanta-cli)
-- [reddit-cli](https://github.com/tamnd/reddit-cli) - A fast, friendly command line for public Reddit data. One pure-Go binary, no API key.
-- [refactoringguru-cli](https://github.com/tamnd/refactoringguru-cli)
-- [regex101-cli](https://github.com/tamnd/regex101-cli)
-- [reuters-cli](https://github.com/tamnd/reuters-cli)
-- [rosettacode-cli](https://github.com/tamnd/rosettacode-cli)
-- [rustbook-cli](https://github.com/tamnd/rustbook-cli)
-- [sageopen-cli](https://github.com/tamnd/sageopen-cli)
-- [segmentfault-cli](https://github.com/tamnd/segmentfault-cli)
-- [semanticscholar-cli](https://github.com/tamnd/semanticscholar-cli)
-- [sicp-cli](https://github.com/tamnd/sicp-cli)
-- [sinafinance-cli](https://github.com/tamnd/sinafinance-cli)
-- [sinanews-cli](https://github.com/tamnd/sinanews-cli)
-- [smashingmag-cli](https://github.com/tamnd/smashingmag-cli)
-- [soundcloud-cli](https://github.com/tamnd/soundcloud-cli)
-- [springer-cli](https://github.com/tamnd/springer-cli)
-- [ss64-cli](https://github.com/tamnd/ss64-cli)
-- [stackoverflow-cli](https://github.com/tamnd/stackoverflow-cli)
-- [stdebooks-cli](https://github.com/tamnd/stdebooks-cli)
-- [steam-cli](https://github.com/tamnd/steam-cli)
-- [substack-cli](https://github.com/tamnd/substack-cli)
-- [sysapproach-cli](https://github.com/tamnd/sysapproach-cli)
-- [thegradient-cli](https://github.com/tamnd/thegradient-cli)
-- [theodinproject-cli](https://github.com/tamnd/theodinproject-cli)
-- [threads-cli](https://github.com/tamnd/threads-cli) - A command line for Threads: profiles, posts, replies, and search as clean structured data.
-- [tieba-cli](https://github.com/tamnd/tieba-cli)
-- [tiengtrungbotui-cli](https://github.com/tamnd/tiengtrungbotui-cli)
-- [tiengtrungonline-cli](https://github.com/tamnd/tiengtrungonline-cli)
-- [tiktok-cli](https://github.com/tamnd/tiktok-cli) - A command line for TikTok. Read public profiles, videos, comments, hashtags, sounds, and search as clean JSONL.
-- [timus-cli](https://github.com/tamnd/timus-cli)
-- [tiobe-cli](https://github.com/tamnd/tiobe-cli)
-- [tldp-cli](https://github.com/tamnd/tldp-cli)
-- [tldrpages-cli](https://github.com/tamnd/tldrpages-cli)
-- [toutiao-cli](https://github.com/tamnd/toutiao-cli)
-- [tumblr-cli](https://github.com/tamnd/tumblr-cli)
-- [twitch-cli](https://github.com/tamnd/twitch-cli)
-- [tycs-cli](https://github.com/tamnd/tycs-cli)
-- [uci-cli](https://github.com/tamnd/uci-cli)
-- [unsdg-cli](https://github.com/tamnd/unsdg-cli)
-- [usaco-cli](https://github.com/tamnd/usaco-cli)
-- [usenix-cli](https://github.com/tamnd/usenix-cli)
-- [uva-cli](https://github.com/tamnd/uva-cli)
-- [v2ex-cli](https://github.com/tamnd/v2ex-cli)
-- [visualgo-cli](https://github.com/tamnd/visualgo-cli)
-- [vldb-cli](https://github.com/tamnd/vldb-cli)
-- [weibo-cli](https://github.com/tamnd/weibo-cli)
-- [weread-cli](https://github.com/tamnd/weread-cli)
-- [wikibooks-cli](https://github.com/tamnd/wikibooks-cli)
-- [wikidata-cli](https://github.com/tamnd/wikidata-cli)
-- [wikipedia-cli](https://github.com/tamnd/wikipedia-cli) - A fast, friendly command line for Wikipedia: read articles as text or Markdown, search, summarize, walk links and categories, query Wikidata, fetch pageviews, and stream and convert the public XML dumps.
-- [wikisource-cli](https://github.com/tamnd/wikisource-cli)
-- [wikiversity-cli](https://github.com/tamnd/wikiversity-cli)
-- [wiktionary-cli](https://github.com/tamnd/wiktionary-cli)
-- [wileyopen-cli](https://github.com/tamnd/wileyopen-cli)
-- [wolframfns-cli](https://github.com/tamnd/wolframfns-cli)
-- [worldbank-cli](https://github.com/tamnd/worldbank-cli)
-- [x-cli](https://github.com/tamnd/x-cli) - A fast pure-Go command line for X (Twitter) over the free public surfaces. No paid API.
-- [xiaohongshu-cli](https://github.com/tamnd/xiaohongshu-cli) - A command line for Xiaohongshu. One pure-Go binary, no API key.
-- [xiaoyuzhou-cli](https://github.com/tamnd/xiaoyuzhou-cli)
-- [yahoofinance-cli](https://github.com/tamnd/yahoofinance-cli)
-- [ytb-cli](https://github.com/tamnd/ytb-cli) - A CLI for YouTube: videos, channels, search, comments, transcripts, and Music, with an optional local SQLite store.
-- [ytmusic-cli](https://github.com/tamnd/ytmusic-cli)
-- [zenodo-cli](https://github.com/tamnd/zenodo-cli)
+One Go binary per site, listed in full below.
+
+| Tool | What it does |
+|---|---|
+| [aclanthology-cli](https://github.com/tamnd/aclanthology-cli) | Browse ACL Anthology NLP and computational linguistics papers from the terminal |
+| [acmdl-cli](https://github.com/tamnd/acmdl-cli) | Fetch ACM Digital Library papers, authors, and citation records from the terminal |
+| [acmqueue-cli](https://github.com/tamnd/acmqueue-cli) | Read ACM Queue practitioner technology articles and issues as structured records, no API key needed. |
+| [algorithmvisualizer-cli](https://github.com/tamnd/algorithmvisualizer-cli) | Browse Algorithm Visualizer algorithms, categories, and code as structured records |
+| [alignmentforum-cli](https://github.com/tamnd/alignmentforum-cli) | Browse AI safety posts, sequences, and authors on the Alignment Forum as structured records |
+| [amz-cli](https://github.com/tamnd/amz-cli) | Crawl every public Amazon surface, products, reviews, Q&A, offers, and deals as structured JSON |
+| [any-cli](https://github.com/tamnd/any-cli) | Scaffold a new tamnd/*-cli repo from a proven template, fully wired with CI, release, and docs |
+| [applepodcasts-cli](https://github.com/tamnd/applepodcasts-cli) | Search Apple Podcasts and browse podcast episodes and shows from the terminal |
+| [archive-cli](https://github.com/tamnd/archive-cli) | A fast, scriptable CLI for the Internet Archive and the Wayback Machine, pulling items, metadata, files, and CDX snapshots |
+| [archwiki-cli](https://github.com/tamnd/archwiki-cli) | Search Arch Linux Wiki articles, pages, and documentation from the terminal |
+| [arctic-cli](https://github.com/tamnd/arctic-cli) | Pull Reddit bulk archive dumps and Arctic Shift API records into Parquet, JSON, or CSV from the terminal |
+| [arstechnica-cli](https://github.com/tamnd/arstechnica-cli) | Read Ars Technica technology, science, and culture articles from the terminal |
+| [arxiv-cli](https://github.com/tamnd/arxiv-cli) | Search arXiv and pull paper metadata, authors, and abstracts from the terminal |
+| [atcoder-cli](https://github.com/tamnd/atcoder-cli) | Browse AtCoder competitive programming problems, contests, and standings from the terminal |
+| [baidu-cli](https://github.com/tamnd/baidu-cli) | Fetch Baidu realtime hot search boards and autocomplete suggestions as JSONL, no API key. |
+| [barchart-cli](https://github.com/tamnd/barchart-cli) | Browse Barchart stock quotes, futures, options, and market data as structured records |
+| [bbc-cli](https://github.com/tamnd/bbc-cli) | Read BBC News stories and sections as clean structured records from the terminal |
+| [betterexplained-cli](https://github.com/tamnd/betterexplained-cli) | Read BetterExplained math and programming articles as structured records from the terminal |
+| [bilibili-cli](https://github.com/tamnd/bilibili-cli) | Resolve any bilibili video, user, comment, danmaku, live room, or bangumi into clean structured records |
+| [biorxiv-cli](https://github.com/tamnd/biorxiv-cli) | Browse and fetch bioRxiv preprints, authors, and abstracts for life sciences research |
+| [bloomberg-cli](https://github.com/tamnd/bloomberg-cli) | Fetch Bloomberg financial news articles and market updates as structured records, no API key needed |
+| [bluesky-cli](https://github.com/tamnd/bluesky-cli) | Fetch Bluesky profiles, posts, and feeds as structured records from the terminal |
+| [britannica-cli](https://github.com/tamnd/britannica-cli) | Browse Encyclopedia Britannica articles and topics as structured records from the terminal |
+| [bytebytego-cli](https://github.com/tamnd/bytebytego-cli) | Fetch ByteByteGo system design articles and newsletters as structured records |
+| [cacm-cli](https://github.com/tamnd/cacm-cli) | Read Communications of the ACM articles and blog posts as structured records |
+| [cambridge-cli](https://github.com/tamnd/cambridge-cli) | Look up Cambridge Dictionary word entries, definitions, and pronunciation from the terminal |
+| [ccrawl-cli](https://github.com/tamnd/ccrawl-cli) | A fast, friendly command line for Common Crawl: URL index search, WARC fetch, Parquet columnar queries, and dataset building. |
+| [chemrxiv-cli](https://github.com/tamnd/chemrxiv-cli) | Browse ChemRxiv chemistry preprints, authors, and abstracts from the terminal |
+| [classcentral-cli](https://github.com/tamnd/classcentral-cli) | Search online courses, reviews, and providers on Class Central as JSON or table output |
+| [clinicaltrials-cli](https://github.com/tamnd/clinicaltrials-cli) | Search ClinicalTrials.gov clinical studies and trial records from the command line |
+| [cmu15445-cli](https://github.com/tamnd/cmu15445-cli) | Browse CMU 15-445 Database Systems course content, problems, and materials from the terminal |
+| [codecademy-cli](https://github.com/tamnd/codecademy-cli) | Browse and search the Codecademy course catalog, listing 800+ courses as JSON, JSONL, or CSV |
+| [codechef-cli](https://github.com/tamnd/codechef-cli) | Browse CodeChef competitive programming problems, contests, and submissions from the terminal |
+| [codeforces-cli](https://github.com/tamnd/codeforces-cli) | Browse Codeforces problems, contests, and standings as structured records |
+| [codinghorror-cli](https://github.com/tamnd/codinghorror-cli) | Fetch Jeff Atwood's Coding Horror blog posts and metadata as structured records from the terminal |
+| [comick-cli](https://github.com/tamnd/comick-cli) | Browse manga series, chapters, and metadata on comick.io from the terminal |
+| [compilerexplorer-cli](https://github.com/tamnd/compilerexplorer-cli) | Browse Compiler Explorer (Godbolt) compilers, languages, and assembly output from the terminal |
+| [coursera-cli](https://github.com/tamnd/coursera-cli) | Read public Coursera courses, specializations, and instructors as structured JSON records |
+| [cpalgorithms-cli](https://github.com/tamnd/cpalgorithms-cli) | Browse CP-Algorithms competitive programming articles and algorithm guides from the terminal. |
+| [craftinginterpreters-cli](https://github.com/tamnd/craftinginterpreters-cli) | Read Crafting Interpreters book chapters, sections, and code samples as structured records |
+| [cran-cli](https://github.com/tamnd/cran-cli) | Browse CRAN R package metadata, versions, and maintainers from the terminal |
+| [cratesio-cli](https://github.com/tamnd/cratesio-cli) | Browse crates.io Rust package metadata, versions, downloads, and owners as structured records |
+| [crossref-cli](https://github.com/tamnd/crossref-cli) | Fetch Crossref scholarly metadata, DOI records, and citation data from the terminal |
+| [cryptostanford-cli](https://github.com/tamnd/cryptostanford-cli) | Browse Stanford Cryptography course content, lectures, and resources from the terminal |
+| [cs229-cli](https://github.com/tamnd/cs229-cli) | Read Stanford CS229 Machine Learning course notes, lecture slides, and problem sets as structured records |
+| [cs231n-cli](https://github.com/tamnd/cs231n-cli) | Browse Stanford CS231n CNN course lectures, notes, and assignments from the terminal |
+| [cs50-cli](https://github.com/tamnd/cs50-cli) | Browse Harvard CS50 course content, lectures, and problem sets from the terminal |
+| [csdn-cli](https://github.com/tamnd/csdn-cli) | Browse CSDN Chinese developer blog posts and technical articles from the terminal |
+| [cses-cli](https://github.com/tamnd/cses-cli) | Browse the CSES competitive programming problem set and problem metadata from the terminal |
+| [csfieldguide-cli](https://github.com/tamnd/csfieldguide-cli) | Browse CS Field Guide chapters, topics, and interactive content from the terminal |
+| [csrankings-cli](https://github.com/tamnd/csrankings-cli) | Browse CSRankings computer science faculty and institutional research rankings from the terminal. |
+| [csstricks-cli](https://github.com/tamnd/csstricks-cli) | Browse CSS-Tricks web development articles, guides, and snippets from the terminal |
+| [cstheoryse-cli](https://github.com/tamnd/cstheoryse-cli) | Browse questions, answers, and tags on Computer Science Theory Stack Exchange as structured records |
+| [ctrip-cli](https://github.com/tamnd/ctrip-cli) | Search Ctrip hotels, destinations, and travel listings as structured records |
+| [cvf-cli](https://github.com/tamnd/cvf-cli) | Browse Computer Vision Foundation conference papers, authors, and abstracts from the terminal |
+| [databaseinternals-cli](https://github.com/tamnd/databaseinternals-cli) | Fetch Database Internals book content, chapters, and resources from databaseinternals.com |
+| [dbengines-cli](https://github.com/tamnd/dbengines-cli) | Pull DB-Engines database popularity rankings, scores, and trend data as JSON or a table |
+| [dblp-cli](https://github.com/tamnd/dblp-cli) | Search DBLP for computer science publications, authors, and venues as JSON records |
+| [deeplearningbook-cli](https://github.com/tamnd/deeplearningbook-cli) | Read Deep Learning book chapters, sections, and figures by Goodfellow, Bengio, and Courville from the terminal |
+| [devdocs-cli](https://github.com/tamnd/devdocs-cli) | Browse DevDocs.io programming documentation entries and references from the terminal |
+| [devto-cli](https://github.com/tamnd/devto-cli) | Fetch DEV Community articles, tags, and author profiles as JSON from the terminal |
+| [dictionary-cli](https://github.com/tamnd/dictionary-cli) | Look up word definitions, synonyms, and phonetics from a dictionary API at the terminal |
+| [distill-cli](https://github.com/tamnd/distill-cli) | Browse Distill.pub machine learning research articles, authors, and citations from the terminal. |
+| [dlmf-cli](https://github.com/tamnd/dlmf-cli) | Browse NIST Digital Library of Mathematical Functions formulas, chapters, and equations |
+| [dmoj-cli](https://github.com/tamnd/dmoj-cli) | Browse DMOJ competitive programming problems, contests, and submissions as structured records |
+| [doaj-cli](https://github.com/tamnd/doaj-cli) | Search the Directory of Open Access Journals for journals and articles from the terminal |
+| [dockerhub-cli](https://github.com/tamnd/dockerhub-cli) | Browse Docker Hub images, tags, and repository metadata from the terminal |
+| [douban-cli](https://github.com/tamnd/douban-cli) | Crawl Douban books, movies, and music into structured JSON, with lookup commands and an offline mirror mode |
+| [douyin-cli](https://github.com/tamnd/douyin-cli) | Fetch Douyin hot-search trending topics and video metadata as structured records |
+| [dzone-cli](https://github.com/tamnd/dzone-cli) | Browse DZone developer articles, tutorials, and refcardz as structured records |
+| [eleutherai-cli](https://github.com/tamnd/eleutherai-cli) | Fetch EleutherAI research blog posts, authors, and publication metadata from the terminal |
+| [elife-cli](https://github.com/tamnd/elife-cli) | Browse eLife open-access research articles, authors, and abstracts from the terminal |
+| [eloquentjs-cli](https://github.com/tamnd/eloquentjs-cli) | Browse Eloquent JavaScript book chapters and exercises from the terminal |
+| [encmath-cli](https://github.com/tamnd/encmath-cli) | Fetch Encyclopedia of Mathematics entries, formulas, and article records from the terminal |
+| [eppreprints-cli](https://github.com/tamnd/eppreprints-cli) | Fetch economics and policy preprints from EconPapers and related repositories as structured records. |
+| [europepmc-cli](https://github.com/tamnd/europepmc-cli) | Search Europe PMC life sciences literature for articles, abstracts, and author records |
+| [exercism-cli](https://github.com/tamnd/exercism-cli) | Browse Exercism programming exercises, tracks, and concepts as structured records from the terminal |
+| [explainshell-cli](https://github.com/tamnd/explainshell-cli) | Explain shell commands by fetching flag descriptions from explainshell.com as structured records |
+| [f1000-cli](https://github.com/tamnd/f1000-cli) | Fetch F1000Research articles, versions, and peer review data from the terminal |
+| [facebook-cli](https://github.com/tamnd/facebook-cli) | Read public Facebook pages, groups, posts, and comments as structured data, no login or API key |
+| [fandom-cli](https://github.com/tamnd/fandom-cli) | Browse Fandom wiki articles, categories, and pages across any fandom community |
+| [fastai-cli](https://github.com/tamnd/fastai-cli) | Browse fast.ai courses, lessons, and blog posts as clean records from the terminal |
+| [feedbooks-cli](https://github.com/tamnd/feedbooks-cli) | Search and browse free Feedbooks ebooks, titles, and authors from the terminal |
+| [figshare-cli](https://github.com/tamnd/figshare-cli) | Browse Figshare datasets, figures, posters, and academic research outputs as JSON |
+| [freebsddocs-cli](https://github.com/tamnd/freebsddocs-cli) | Browse FreeBSD documentation, handbooks, and man pages from the terminal |
+| [freecodecamp-cli](https://github.com/tamnd/freecodecamp-cli) | Browse freeCodeCamp news articles and tutorials as JSON from the command line |
+| [frontiers-cli](https://github.com/tamnd/frontiers-cli) | Browse Frontiers open-access journal articles and research metadata from the terminal. |
+| [gapminder-cli](https://github.com/tamnd/gapminder-cli) | Fetch Gapminder global development indicators, datasets, and country statistics as records |
+| [gitee-cli](https://github.com/tamnd/gitee-cli) | Browse Gitee repositories, users, and issues as clean structured records from the terminal |
+| [github-cli](https://github.com/tamnd/github-cli) | Browse GitHub repositories, users, and releases as structured records from the terminal |
+| [githubdocs-cli](https://github.com/tamnd/githubdocs-cli) | Browse and search GitHub documentation articles and guides from the terminal |
+| [gobyexample-cli](https://github.com/tamnd/gobyexample-cli) | Browse Go by Example topics and code examples from gobyexample.com in the terminal |
+| [goodread-cli](https://github.com/tamnd/goodread-cli) | Read public Goodreads books, authors, shelves, reviews, and quotes as JSON or JSONL, no API key |
+| [google-cli](https://github.com/tamnd/google-cli) | Pull Google search suggestions and news headlines as structured records from the terminal |
+| [gutenberg-cli](https://github.com/tamnd/gutenberg-cli) | Search Project Gutenberg books, authors, and subjects via the Gutendex API from the terminal |
+| [hackerearth-cli](https://github.com/tamnd/hackerearth-cli) | Browse HackerEarth programming challenges, problems, and contests from the terminal |
+| [hackernews-cli](https://github.com/tamnd/hackernews-cli) | Read Hacker News stories, comments, jobs, and user profiles via the Firebase and Algolia APIs as JSONL |
+| [hackernoon-cli](https://github.com/tamnd/hackernoon-cli) | Pull Hackernoon tech stories, tags, and author feeds into structured records |
+| [hackerrank-cli](https://github.com/tamnd/hackerrank-cli) | Browse HackerRank programming challenges, domains, and problem metadata from the terminal. |
+| [highscalability-cli](https://github.com/tamnd/highscalability-cli) | Browse High Scalability architecture articles, case studies, and system design posts |
+| [huggingface-cli](https://github.com/tamnd/huggingface-cli) | Browse Hugging Face Hub models, datasets, and spaces as structured records from the terminal |
+| [hupu-cli](https://github.com/tamnd/hupu-cli) | Browse Hupu sports community posts, threads, and user content as structured records |
+| [ifeng-cli](https://github.com/tamnd/ifeng-cli) | Read iFeng news articles, headlines, and topics from the terminal |
+| [imdb-cli](https://github.com/tamnd/imdb-cli) | Browse IMDB movies, TV shows, and people records from the terminal, no API key needed |
+| [infoq-cli](https://github.com/tamnd/infoq-cli) | Browse InfoQ software engineering articles, presentations, and podcasts as structured records |
+| [instagram-cli](https://github.com/tamnd/instagram-cli) | Read public Instagram profiles, posts, and links as JSON records, no API key needed |
+| [interpretableml-cli](https://github.com/tamnd/interpretableml-cli) | Read Interpretable Machine Learning book chapters and sections by Christoph Molnar from the terminal |
+| [iqiyi-cli](https://github.com/tamnd/iqiyi-cli) | Browse iQIYI video titles, episodes, and show metadata from the terminal |
+| [jayalammar-cli](https://github.com/tamnd/jayalammar-cli) | Browse Jay Alammar's machine learning blog posts and visualizations from the terminal |
+| [joelonsoftware-cli](https://github.com/tamnd/joelonsoftware-cli) | Read Joel on Software blog posts and article metadata from the command line |
+| [jsinfo-cli](https://github.com/tamnd/jsinfo-cli) | Browse JavaScript.info modern JavaScript tutorial chapters and task listings from the terminal. |
+| [juejin-cli](https://github.com/tamnd/juejin-cli) | Browse Juejin developer articles, authors, and tags from China's largest tech writing platform |
+| [jutge-cli](https://github.com/tamnd/jutge-cli) | List and search the Jutge.org competitive programming problem archive, with JSON, CSV, and table output |
+| [kaggle-cli](https://github.com/tamnd/kaggle-cli) | Browse Kaggle datasets, competitions, and notebook metadata as structured records |
+| [kattis-cli](https://github.com/tamnd/kattis-cli) | Browse Kattis competitive programming problems, stats, and submissions from the terminal |
+| [kernelorg-cli](https://github.com/tamnd/kernelorg-cli) | Fetch Linux kernel releases, versions, and metadata from kernel.org into clean records |
+| [khanacademy-cli](https://github.com/tamnd/khanacademy-cli) | Read Khan Academy courses, topics, and exercises as structured records from the terminal |
+| [komal-cli](https://github.com/tamnd/komal-cli) | Fetch KoMaL math, physics, and informatics competition problems as JSON records |
+| [kr36-cli](https://github.com/tamnd/kr36-cli) | Browse 36kr Chinese tech news articles, headlines, and authors from the terminal |
+| [kvant-mccme-cli](https://github.com/tamnd/kvant-mccme-cli) | Browse the Kvant Russian math and physics journal archive (1970-2003) from the terminal |
+| [leanpub-cli](https://github.com/tamnd/leanpub-cli) | Browse and discover ebooks, authors, and pricing on Leanpub from the terminal |
+| [leetcode-cli](https://github.com/tamnd/leetcode-cli) | Browse LeetCode problems, daily challenges, and contest data from the terminal |
+| [lesswrong-cli](https://github.com/tamnd/lesswrong-cli) | Browse LessWrong posts, tags, authors, and comment threads as structured records from the terminal. |
+| [lilianweng-cli](https://github.com/tamnd/lilianweng-cli) | Browse Lilian Weng's machine learning blog posts, titles, and dates from the terminal |
+| [linkedin-cli](https://github.com/tamnd/linkedin-cli) | Fetch public LinkedIn profiles, company pages, job postings, and job search results as JSON or JSONL |
+| [linuxdo-cli](https://github.com/tamnd/linuxdo-cli) | Browse linux.do Discourse community topics and posts as structured records |
+| [lobsters-cli](https://github.com/tamnd/lobsters-cli) | Read Lobste.rs stories, comments, and tags as structured records from the terminal |
+| [lwn-cli](https://github.com/tamnd/lwn-cli) | Browse LWN.net Linux and kernel news articles, stories, and weekly editions from the terminal |
+| [mangadex-cli](https://github.com/tamnd/mangadex-cli) | Browse MangaDex manga titles, chapters, authors, and tags as structured records, using the public API |
+| [mangafire-cli](https://github.com/tamnd/mangafire-cli) | Browse the MangaFire manga catalog, titles, and chapter lists as structured records |
+| [martinfowler-cli](https://github.com/tamnd/martinfowler-cli) | Fetch Martin Fowler's technical articles, bliki posts, and book entries from the terminal |
+| [mathnet-cli](https://github.com/tamnd/mathnet-cli) | Browse MathNet olympiad math problems and competitions from the terminal |
+| [mathnet-ru-cli](https://github.com/tamnd/mathnet-ru-cli) | Fetch math journal articles and issue listings from mathnet.ru as JSON or CSV |
+| [mathoverflow-cli](https://github.com/tamnd/mathoverflow-cli) | Search MathOverflow research questions, answers, and tags as structured JSON records |
+| [mathse-cli](https://github.com/tamnd/mathse-cli) | Search Math Stack Exchange questions, answers, and tags as structured records from the terminal. |
+| [mathworld-cli](https://github.com/tamnd/mathworld-cli) | Browse Wolfram MathWorld mathematical articles, definitions, and formulas as structured records |
+| [maven-cli](https://github.com/tamnd/maven-cli) | Search Maven Central artifacts, versions, and dependency metadata from the terminal |
+| [mdpi-cli](https://github.com/tamnd/mdpi-cli) | Fetch MDPI open-access journal articles, issues, and author records from the terminal |
+| [medium-cli](https://github.com/tamnd/medium-cli) | Fetch Medium posts, authors, and tags by user, publication, or topic from the terminal |
+| [mitnews-cli](https://github.com/tamnd/mitnews-cli) | Read MIT News research stories, science articles, and topics from news.mit.edu as structured records |
+| [mlxtend-cli](https://github.com/tamnd/mlxtend-cli) | Browse mlxtend machine learning library docs: modules, classes, and function signatures as structured records |
+| [morningpaper-cli](https://github.com/tamnd/morningpaper-cli) | Browse Morning Paper CS research paper reviews and posts from the terminal |
+| [nand2tetris-cli](https://github.com/tamnd/nand2tetris-cli) | Browse Nand to Tetris course projects, chapters, and materials from the terminal |
+| [nber-cli](https://github.com/tamnd/nber-cli) | Browse NBER economic working papers, authors, and abstracts from the terminal |
+| [neetcode-cli](https://github.com/tamnd/neetcode-cli) | Browse NeetCode curated LeetCode problems and study roadmaps from the terminal |
+| [netease163-cli](https://github.com/tamnd/netease163-cli) | Scrape NetEase 163 news articles and headlines into structured records |
+| [neteasemusic-cli](https://github.com/tamnd/neteasemusic-cli) | Search NetEase Cloud Music songs, albums, artists, and playlists as structured records, no API key. |
+| [neuralnetworksdl-cli](https://github.com/tamnd/neuralnetworksdl-cli) | Read Neural Networks and Deep Learning book chapters and pages as JSON from the command line |
+| [neurips-cli](https://github.com/tamnd/neurips-cli) | Fetch NeurIPS paper metadata, authors, and abstracts from the conference proceedings |
+| [nlab-cli](https://github.com/tamnd/nlab-cli) | Browse nLab mathematics wiki pages and definitions as structured records from the terminal |
+| [npmjs-cli](https://github.com/tamnd/npmjs-cli) | Fetch npm package metadata, versions, maintainers, and download stats from the terminal |
+| [ocwmit-cli](https://github.com/tamnd/ocwmit-cli) | Browse MIT OpenCourseWare courses, lectures, and materials from ocw.mit.edu |
+| [oeis-cli](https://github.com/tamnd/oeis-cli) | Search the Online Encyclopedia of Integer Sequences and pull sequence metadata, formulas, and references |
+| [opendatastructures-cli](https://github.com/tamnd/opendatastructures-cli) | Browse Open Data Structures book chapters and sections across Python, Java, and C++ editions |
+| [openreview-cli](https://github.com/tamnd/openreview-cli) | Browse OpenReview ML papers, reviews, and forum posts from the terminal |
+| [openstax-cli](https://github.com/tamnd/openstax-cli) | Browse OpenStax free textbooks, books, and course content as structured records |
+| [oschina-cli](https://github.com/tamnd/oschina-cli) | Read OSChina open-source news and hot posts via the public XML API as JSON |
+| [osmwiki-cli](https://github.com/tamnd/osmwiki-cli) | Search and fetch OpenStreetMap wiki pages, map features, and tag documentation |
+| [ossucs-cli](https://github.com/tamnd/ossucs-cli) | Browse the Open Source Society University CS curriculum: courses, sections, and prerequisites as JSON or CSV. |
+| [ostep-cli](https://github.com/tamnd/ostep-cli) | Browse Operating Systems: Three Easy Pieces chapters and PDF links from the terminal |
+| [oupopen-cli](https://github.com/tamnd/oupopen-cli) | Browse Oxford University Press open-access books and articles as structured records |
+| [owasp-cli](https://github.com/tamnd/owasp-cli) | Fetch OWASP security guidelines, checklists, and project data as structured records |
+| [owid-cli](https://github.com/tamnd/owid-cli) | Fetch Our World in Data charts, datasets, and indicators as structured records from the terminal |
+| [paperreview-cli](https://github.com/tamnd/paperreview-cli) | Fetch AI-generated reviews and summaries of research papers from paperreview.ai |
+| [paulgraham-cli](https://github.com/tamnd/paulgraham-cli) | Fetch Paul Graham essays from paulgraham.com as plain text or structured records |
+| [paulsmath-cli](https://github.com/tamnd/paulsmath-cli) | Browse Paul's Online Math Notes sections for Calculus, Algebra, and Differential Equations |
+| [peerj-cli](https://github.com/tamnd/peerj-cli) | Fetch PeerJ open-access research articles, authors, and abstracts from the terminal |
+| [philpapers-cli](https://github.com/tamnd/philpapers-cli) | Browse PhilPapers philosophy papers, authors, and bibliography from the terminal |
+| [physicsforums-cli](https://github.com/tamnd/physicsforums-cli) | Browse PhysicsForums.com threads, posts, and discussion topics from the terminal |
+| [pixiv-cli](https://github.com/tamnd/pixiv-cli) | Fetch Pixiv daily, weekly, and monthly illustration rankings as table or JSONL output |
+| [pkggodev-cli](https://github.com/tamnd/pkggodev-cli) | Search Go packages on pkg.go.dev and look up module versions and latest releases from the terminal. |
+| [plosone-cli](https://github.com/tamnd/plosone-cli) | Browse PLOS open-access journals for articles, abstracts, and author metadata |
+| [pragmaticengineer-cli](https://github.com/tamnd/pragmaticengineer-cli) | Read The Pragmatic Engineer newsletter posts, titles, and audience fields as JSON or table output |
+| [producthunt-cli](https://github.com/tamnd/producthunt-cli) | Browse Product Hunt launches, products, and votes as structured records from the terminal |
+| [proofwiki-cli](https://github.com/tamnd/proofwiki-cli) | Browse ProofWiki mathematical proofs, theorems, and definitions as structured records |
+| [pubmed-cli](https://github.com/tamnd/pubmed-cli) | Search PubMed biomedical literature, articles, and citations from the terminal |
+| [pwc-cli](https://github.com/tamnd/pwc-cli) | Browse Papers With Code papers, benchmarks, tasks, and linked code repositories as JSON records |
+| [pydocs-cli](https://github.com/tamnd/pydocs-cli) | Search and browse Python official documentation pages and module references from the terminal |
+| [pypi-cli](https://github.com/tamnd/pypi-cli) | Look up PyPI packages, versions, release metadata, and dependencies from the terminal |
+| [pythondiscuss-cli](https://github.com/tamnd/pythondiscuss-cli) | Browse Python community topics, posts, and replies from discuss.python.org |
+| [qiita-cli](https://github.com/tamnd/qiita-cli) | Browse Qiita developer articles, tags, and author profiles from the terminal |
+| [qqmusic-cli](https://github.com/tamnd/qqmusic-cli) | Browse QQ Music charts, songs, and artist records via the public toplist API |
+| [quanta-cli](https://github.com/tamnd/quanta-cli) | Browse Quanta Magazine science and math articles, topics, and authors as structured records. |
+| [reddit-cli](https://github.com/tamnd/reddit-cli) | Pull public Reddit posts, comments, user profiles, subreddits, and search results as JSON or JSONL |
+| [refactoringguru-cli](https://github.com/tamnd/refactoringguru-cli) | List all 22 GoF design patterns from Refactoring.Guru with category, intent, and URL as JSON or table |
+| [regex101-cli](https://github.com/tamnd/regex101-cli) | Search and list regex101.com shared patterns by keyword or language flavor as JSON |
+| [reuters-cli](https://github.com/tamnd/reuters-cli) | Read Reuters world news headlines and articles as structured records from the terminal |
+| [rosettacode-cli](https://github.com/tamnd/rosettacode-cli) | Browse Rosetta Code programming tasks and multi-language solutions from the terminal |
+| [rustbook-cli](https://github.com/tamnd/rustbook-cli) | Fetch pages and links from The Rust Programming Language book (doc.rust-lang.org) as structured records |
+| [sageopen-cli](https://github.com/tamnd/sageopen-cli) | Browse SAGE Open access journals, articles, and research publications from the terminal |
+| [segmentfault-cli](https://github.com/tamnd/segmentfault-cli) | Browse SegmentFault questions, answers, and tags as JSON, CSV, or JSONL from the terminal |
+| [semanticscholar-cli](https://github.com/tamnd/semanticscholar-cli) | Search Semantic Scholar papers, authors, citations, and references from the terminal |
+| [sicp-cli](https://github.com/tamnd/sicp-cli) | Browse SICP chapters and sections from the terminal, with JSON, CSV, HTTP, and MCP output |
+| [sinafinance-cli](https://github.com/tamnd/sinafinance-cli) | Get real-time stock quotes and market data from Sina Finance at the terminal |
+| [sinanews-cli](https://github.com/tamnd/sinanews-cli) | Browse Sina News articles and category feeds from the terminal as structured records, no API key. |
+| [smashingmag-cli](https://github.com/tamnd/smashingmag-cli) | Browse Smashing Magazine web design articles via RSS as table, JSON, JSONL, or URL |
+| [soundcloud-cli](https://github.com/tamnd/soundcloud-cli) | Search SoundCloud tracks, users, and playlists, and fetch artist profiles as structured records |
+| [springer-cli](https://github.com/tamnd/springer-cli) | Fetch Springer Nature journal articles, book chapters, and author records from the terminal |
+| [ss64-cli](https://github.com/tamnd/ss64-cli) | Look up shell and command-line syntax references from SS64 in the terminal |
+| [stackoverflow-cli](https://github.com/tamnd/stackoverflow-cli) | Read Stack Overflow questions, answers, and tags as structured records, no API key required |
+| [stdebooks-cli](https://github.com/tamnd/stdebooks-cli) | Browse Standard Ebooks catalog titles, authors, subjects, and download links as structured records |
+| [steam-cli](https://github.com/tamnd/steam-cli) | Browse the Steam game store for app details, prices, reviews, and game records |
+| [substack-cli](https://github.com/tamnd/substack-cli) | Fetch Substack newsletter feeds, posts, and authors via the public REST API from the terminal |
+| [sysapproach-cli](https://github.com/tamnd/sysapproach-cli) | Browse Computer Networks: A Systems Approach chapters and content from the terminal |
+| [thegradient-cli](https://github.com/tamnd/thegradient-cli) | Fetch The Gradient AI research publication posts and listings from the terminal |
+| [theodinproject-cli](https://github.com/tamnd/theodinproject-cli) | Browse The Odin Project learning paths and lessons as JSON from the command line |
+| [threads-cli](https://github.com/tamnd/threads-cli) | Read public Threads profiles, posts, and reply threads as clean structured data, no login or API key. |
+| [tieba-cli](https://github.com/tamnd/tieba-cli) | Browse Baidu Tieba hot topics, posts, and forum threads as structured records |
+| [tiengtrungbotui-cli](https://github.com/tamnd/tiengtrungbotui-cli) | Crawl tiengtrungbotui.com Chinese learning pages and links as structured records with JSON or table output |
+| [tiengtrungonline-cli](https://github.com/tamnd/tiengtrungonline-cli) | Read Tieng Trung Online Vietnamese-Chinese lesson posts and categories via the WordPress REST API |
+| [tiktok-cli](https://github.com/tamnd/tiktok-cli) | Read public TikTok videos, users, comments, hashtags, and trending feeds as structured records |
+| [timus-cli](https://github.com/tamnd/timus-cli) | Browse Timus Online Judge problems, contests, and standings from the terminal |
+| [tiobe-cli](https://github.com/tamnd/tiobe-cli) | Pull the TIOBE programming language index rankings and scores as a table, JSON, or CSV |
+| [tldp-cli](https://github.com/tamnd/tldp-cli) | Browse The Linux Documentation Project HOWTOs, guides, and man pages from the terminal |
+| [tldrpages-cli](https://github.com/tamnd/tldrpages-cli) | Show tldr-pages command summaries and practical examples from the terminal |
+| [toutiao-cli](https://github.com/tamnd/toutiao-cli) | Browse Toutiao news feed articles and trending topics from ByteDance |
+| [tumblr-cli](https://github.com/tamnd/tumblr-cli) | Browse Tumblr blog posts, tag feeds, and blog metadata from the terminal as JSON |
+| [twitch-cli](https://github.com/tamnd/twitch-cli) | Browse Twitch live streams, top categories, and channels as structured JSON from the terminal |
+| [tycs-cli](https://github.com/tamnd/tycs-cli) | Browse the Teach Yourself CS curriculum: subjects, books, and video recommendations as JSON or table output. |
+| [uci-cli](https://github.com/tamnd/uci-cli) | Browse UCI Machine Learning Repository datasets, attributes, and metadata as structured records |
+| [unsdg-cli](https://github.com/tamnd/unsdg-cli) | Fetch all 17 UN Sustainable Development Goals and 169 targets from the UN SDG API as JSON or JSONL |
+| [usaco-cli](https://github.com/tamnd/usaco-cli) | Browse USACO competition problems and contest rounds by division as structured records |
+| [usenix-cli](https://github.com/tamnd/usenix-cli) | Fetch USENIX conference papers, proceedings, and talk metadata from the terminal |
+| [uva-cli](https://github.com/tamnd/uva-cli) | Browse UVa Online Judge problems and problem sets from the terminal |
+| [v2ex-cli](https://github.com/tamnd/v2ex-cli) | Read V2EX hot topics, nodes, member profiles, and replies via the public JSON API |
+| [visualgo-cli](https://github.com/tamnd/visualgo-cli) | List VisualAlgo algorithm and data structure visualizations as JSON records from the terminal |
+| [vldb-cli](https://github.com/tamnd/vldb-cli) | Fetch VLDB conference papers, authors, and proceedings records from the terminal |
+| [weibo-cli](https://github.com/tamnd/weibo-cli) | Browse Weibo hot search topics, trending posts, and user content from the terminal |
+| [weread-cli](https://github.com/tamnd/weread-cli) | Search WeRead (微信读书) books and retrieve book metadata from the terminal |
+| [wikibooks-cli](https://github.com/tamnd/wikibooks-cli) | Browse English Wikibooks book listings and chapter records from the terminal |
+| [wikidata-cli](https://github.com/tamnd/wikidata-cli) | Look up Wikidata entities, properties, and statements as structured records from the terminal, no API key. |
+| [wikipedia-cli](https://github.com/tamnd/wikipedia-cli) | Read Wikipedia articles, search, browse categories, query Wikidata, and stream dumps, no account needed |
+| [wikisource-cli](https://github.com/tamnd/wikisource-cli) | Browse English Wikisource texts and pages as clean structured records from the terminal |
+| [wikiversity-cli](https://github.com/tamnd/wikiversity-cli) | Browse English Wikiversity learning resources, courses, and pages as structured records |
+| [wiktionary-cli](https://github.com/tamnd/wiktionary-cli) | Look up words in English Wiktionary and get definitions, etymology, and translations as JSON |
+| [wileyopen-cli](https://github.com/tamnd/wileyopen-cli) | Fetch Wiley open-access journal articles, metadata, and abstracts from the terminal |
+| [wolframfns-cli](https://github.com/tamnd/wolframfns-cli) | Browse Wolfram Functions categories and mathematical function records from functions.wolfram.com |
+| [worldbank-cli](https://github.com/tamnd/worldbank-cli) | Browse World Bank Open Data indicators, countries, and datasets from the terminal |
+| [x-cli](https://github.com/tamnd/x-cli) | Read X (Twitter) tweets, profiles, timelines, threads, and search results into JSONL, no API key needed |
+| [xiaohongshu-cli](https://github.com/tamnd/xiaohongshu-cli) | Read Xiaohongshu notes, user profiles, comments, and feeds as JSONL |
+| [xiaoyuzhou-cli](https://github.com/tamnd/xiaoyuzhou-cli) | Browse Xiaoyuzhou (小宇宙) podcasts and episode listings from the terminal |
+| [yahoofinance-cli](https://github.com/tamnd/yahoofinance-cli) | Get Yahoo Finance stock quotes, price history, and company summaries from the terminal |
+| [ytb-cli](https://github.com/tamnd/ytb-cli) | Fetch YouTube videos, channels, search results, comments, and transcripts via InnerTube, with an optional local SQLite store. |
+| [ytmusic-cli](https://github.com/tamnd/ytmusic-cli) | Search YouTube Music songs, artists, albums, and playlists from the terminal, no API key needed |
+| [zenodo-cli](https://github.com/tamnd/zenodo-cli) | Browse Zenodo open research records, datasets, and deposits as structured records from the terminal |
+| [zhihu-cli](https://github.com/tamnd/zhihu-cli) | Read Zhihu questions, answers, and pages as structured records, with HTTP and MCP serve modes |
 
 ### Indexes (12)
 
@@ -357,7 +363,7 @@ Every public repository I own, nothing left out. 335 in total.
 - [python-docs-vi](https://github.com/tamnd/python-docs-vi) - Vietnamese translation of the Python documentation, auto-synced from Transifex (PEP 545)
 - [ziglang-vi](https://github.com/tamnd/ziglang-vi) - Vietnamese translation of ziglang.org (upstream: codeberg.org/ziglang/ziglang.org)
 
-### Everything else (65)
+### Everything else (63)
 
 - [ant](https://github.com/tamnd/ant) - Every public record is a URI, and ant dereferences it: a URI front door over the tamnd site CLIs.
 - [beej-vi-docker](https://github.com/tamnd/beej-vi-docker) - Shared container image for building Beej's Guides (texlive + pandoc + Libertinus fonts). Pulled by tamnd/bgnet-vi and tamnd/bgc-vi.
@@ -382,7 +388,6 @@ Every public repository I own, nothing left out. 335 in total.
 - [docs](https://github.com/tamnd/docs)
 - [dual](https://github.com/tamnd/dual) - Go implementation of dual numbers.
 - [fastmlx](https://github.com/tamnd/fastmlx) - Go reimplementation of jundot/omlx: continuous-batching MLX LLM inference server for Apple Silicon
-- [gauth](https://github.com/tamnd/gauth) - Clean authentication for Go
 - [githome](https://github.com/tamnd/githome) - A self-hosted, GitHub-compatible software forge written in Go. REST v3, GraphQL v4, and the gh CLI, byte for byte.
 - [githome-bench](https://github.com/tamnd/githome-bench) - Real-world benchmark and SLO gates for the Githome forge
 - [github-compat](https://github.com/tamnd/github-compat) - Conformance test suite: prove any GitHub-compatible API host works with every client library, CLI, and integration
@@ -416,7 +421,6 @@ Every public repository I own, nothing left out. 335 in total.
 - [setup-zig](https://github.com/tamnd/setup-zig) - tamnd fork of mlugg/setup-zig with action.yml on node24 + daily upstream mirror
 - [sicp-docker](https://github.com/tamnd/sicp-docker) - Docker image for SICP build toolchain (XeLaTeX, texi2any, inkscape, Inconsolata LGC)
 - [spambot](https://github.com/tamnd/spambot) - A spambot written in Go
-- [spintax](https://github.com/tamnd/spintax) - A Go package to parse spintax, a text format used for automated article generation.
 - [tago](https://github.com/tamnd/tago) - Incremental static site generator for Go - SQLite cache, D3 graph/tree/calendar, html/template themes
 - [tago-doks](https://github.com/tamnd/tago-doks) - A clean documentation theme for tago, styled after Doks (getdoks.org).
 - [tamnd](https://github.com/tamnd/tamnd)
